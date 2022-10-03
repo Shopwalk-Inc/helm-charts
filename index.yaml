@@ -1,0 +1,22 @@
+apiVersion: v1
+entries:
+  docker-registry:
+  - apiVersion: v1
+    appVersion: 2.7.1
+    created: "2022-10-03T21:18:44.203283676Z"
+    description: A Helm chart for Docker Registry
+    digest: 50b77f3ae8e9498cba46c2e63bb088d7d6af42f12b4bb174fea96589b20c5e62
+    home: https://hub.docker.com/_/registry/
+    icon: https://hub.docker.com/public/images/logos/mini-logo.svg
+    maintainers:
+    - email: jpds@protonmail.com
+      name: jpds
+    - email: pete.brown@powerhrg.com
+      name: rendhalver
+    name: docker-registry
+    sources:
+    - https://github.com/docker/distribution-library-image
+    urls:
+    - https://github.com/Shopwalk-Inc/helm-charts/releases/download/docker-registry-1.9.4/docker-registry-1.9.4.tgz
+    version: 1.9.4
+generated: "2022-10-03T21:18:44.036406937Z"
